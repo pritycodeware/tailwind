@@ -32,10 +32,10 @@ function Slider() {
       >
 
         {
-          [ 'https://images.pexels.com/photos/2889440/pexels-photo-2889440.jpeg?auto=compress&cs=tinysrgb&w=600',
+          [ 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoNAtb1z65Z0yEQcEYuWvQi-OMw95_QfAZw&usqp=CAU',
             'https://images.pexels.com/photos/2889440/pexels-photo-2889440.jpeg?auto=compress&cs=tinysrgb&w=600',
-            'https://images.pexels.com/photos/2889440/pexels-photo-2889440.jpeg?auto=compress&cs=tinysrgb&w=600',
-            'https://images.pexels.com/photos/2252618/pexels-photo-2252618.jpeg?auto=compress&cs=tinysrgb&w=600',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlgtAkv-WwZyiiXQEjoMg4-ouTDMWXe6yH6g&usqp=CAU',
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3sgCG_4uP3A41xsuFTHe4Scmj7-8MWGNXlg&usqp=CAU',
             'https://images.pexels.com/photos/2253359/pexels-photo-2253359.jpeg?auto=compress&cs=tinysrgb&w=600',
           ].map((index, i, arr) => (
             <div className='px-2 pb-10' key={i} >

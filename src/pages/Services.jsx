@@ -39,14 +39,12 @@ function services() {
     <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
       <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div className="rounded-lg h-64 overflow-hidden">
-          <img alt="content" className="object-cover object-center h-full w-full" src="https://sweetestmessages.com/wp-content/uploads/2022/02/Agriculture-Motivational-Quotes.jpg?ezimgfmt=ng%3Awebp%2Fngcb6%2Frs%3Adevice%2Frscb6-1" />
+          <img alt="content" className="object-cover object-center h-full w-full" src="https://www.foodbusinessafrica.com/wp-content/uploads/2019/04/diruptive-agriculture-tech.jpg" />
         </div>
         <h2 className="text-xl font-medium title-font text-gray-900 mt-5">Shooting Stars</h2>
         <p className="text-base leading-relaxed mt-2">Responsible for passing out advice, knowledge, and information to farmers.</p>
         <a className="text-white-500 inline-flex items-center mt-3">
-          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-2" viewBox="0 0 24 24">
-            <path d="M5 12h14M12 5l7 7-7 7" />
-          </svg>
+          
         </a>
       </div>
       <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -56,9 +54,7 @@ function services() {
         <h2 className="text-xl font-medium title-font text-gray-900 mt-5">The Catalyzer</h2>
         <p className="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>
         <a className="text-white-500 inline-flex items-center mt-3">
-          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-2" viewBox="0 0 24 24">
-            <path d="M5 12h14M12 5l7 7-7 7" />
-          </svg>
+          
         </a>
       </div>
       <div className="p-4 md:w-1/3 sm:mb-0 mb-6">
@@ -68,9 +64,7 @@ function services() {
         <h2 className="text-xl font-medium title-font text-gray-900 mt-5">The 400 Blows</h2>
         <p className="text-base leading-relaxed mt-2">Swag shoivdigoitch literally meditation subway tile tumblr cold-pressed. Gastropub street art beard dreamcatcher neutra, ethical XOXO lumbersexual.</p>
         <a className="text-white-500 inline-flex items-center mt-3">
-          <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} className="w-4 h-4 ml-2" viewBox="0 0 24 24">
-            <path d="M5 12h14M12 5l7 7-7 7" />
-          </svg>
+        
         </a>
       </div>
     </div>
@@ -146,9 +140,13 @@ function services() {
           </a>
           <a href="" className="w-8 h-8 border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-gray-600 hover:text-white hover:bg-blue-400 hover:border-blue-400">
             <i className="fab fa-twitter"></i>
+            
           </a>
           <a href="" className="w-8 h-8  border-2 border-gray-400 rounded-full text-center py-1 ml-2 text-gray-600 hover:text-white hover:bg-red-600 hover:border-red-600">
             <i className="fab fa-google-plus-g"></i>
+
+            
+
           </a>
         </div>
       </div>
@@ -177,9 +175,14 @@ function services() {
 </footer>
 
     {/* footer close */}
-      
+        
 </div>
       </div>
+
+
+
+
+
       
 
       

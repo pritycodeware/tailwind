@@ -24,7 +24,7 @@ function Contact() {
 
 <div className="container my-24 px-6 mx-auto">
   <section className="mb-32 text-gray-800">
-  <img alt="content" className="object-cover object-center h-[450px] w-[100%]" src="https://cdn.pixabay.com/photo/2017/09/28/13/27/nature-2795521__480.jpg" />
+  <img alt="content" className="object-cover object-center h-[450px] w-[100%]" src="https://www.foodbusinessafrica.com/wp-content/uploads/2019/04/diruptive-agriculture-tech.jpg" />
     <div className="flex items-center mb-6">
       <div>
       </div>
@@ -190,7 +190,8 @@ function Contact() {
 
     {/* footer close */}
 
-
+    
+  
 </div>
 
   )
